@@ -6,7 +6,7 @@ Front-end developer
 
 Welcome to my GitHub profile! I'm a Senior Frontend Developer passionate about React, Typescript, and JavaScript.
 
-* 🌍  I'm based in Theran
+* 🌍  I'm based in Tehran
 * ✉️  You can contact me at [mwano@gmail.com](mailto:mwano@gmail.com)
 * 🧠  I'm learning Next-js
 * ⚡  Tell me and I forget, teach me and I may remember, involve me and I learn "– Benjamin Franklin"
