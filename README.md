@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-end developer
 -------------------
 
-Welcome to my GitHub profile! I'm a Senior Frontend Developer passionate about React, Typescript, and JavaScript.
+Welcome to my GitHub profile! I'm a Junior Developer passionate about React, Typescript, and JavaScript.
 
 * 🌍  I'm based in Tehran
 * ✉️  You can contact me at [mwano@gmail.com](mailto:mwano@gmail.com)
