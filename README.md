@@ -1,46 +1,111 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Masoud Jafari
-=====================================================================================================================================
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Profile README</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background: #f4f4f9;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #007acc;
+            text-align: center;
+        }
+        h2 {
+            color: #005f99;
+            margin-top: 30px;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            background: #e3f2fd;
+            margin: 10px 0;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        .highlight {
+            color: #007acc;
+            font-weight: bold;
+        }
+        .link {
+            color: #005f99;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .link:hover {
+            text-decoration: underline;
+        }
+        .section {
+            margin-bottom: 30px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Hi there, I'm <span class="highlight">[Your Name]</span> 👋</h1>
 
-Front-end developer
--------------------
+        <div class="section">
+            <h2>English Version 🇺🇸</h2>
+            <p>I'm a skilled <span class="highlight">Software Engineer</span> passionate about creating seamless and interactive user experiences. Currently focusing on <span class="highlight">Front-End Development</span>, I bring life to designs with clean, efficient, and maintainable code. As a <span class="highlight">self-taught learner</span>, I've mastered a variety of tools and technologies, continuously expanding my skill set to stay at the forefront of the tech industry.</p>
 
-Welcome to my GitHub profile! I'm a junior developer passionate about React, Typescript, and JavaScript.
+            <h3>🚀 Skills:</h3>
+            <ul>
+                <li><span class="highlight">Front-End Development</span>: React.js, Next.js, JavaScript (ES6+), HTML5, CSS3, SCSS</li>
+                <li><span class="highlight">UI/UX Design</span>: Figma, Material-UI (MUI)</li>
+                <li><span class="highlight">Version Control</span>: Git, GitHub</li>
+                <li><span class="highlight">Performance Optimization</span>: React Window, PWA</li>
+            </ul>
 
-* 🌍  I'm based in Tehran
-* ✉️  You can contact me at [mwano@gmail.com](mailto:mwano@gmail.com)
-* 🧠  I'm learning Next-js
-* ⚡  Tell me and I forget, teach me and I may remember, involve me and I learn "– Benjamin Franklin"
+            <h3>🌟 Highlights:</h3>
+            <ul>
+                <li>Successfully implemented responsive designs for dynamic web applications.</li>
+                <li>Built a 7-step form wizard using React, MUI, and PWA, delivering data to the backend in JSON format.</li>
+                <li>Worked on multiple freelance projects showcasing my expertise in modern web technologies.</li>
+                <li>Designed and coded my personal portfolio, providing a detailed overview of my projects and achievements.</li>
+            </ul>
 
-<a href="https://www.github.com/Masoud2025" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Masoud2025?logo=github&style=for-the-badge&color=22c55e&labelColor=0f172a" /></a><a href="https://www.x.com/MasoudJ23481721" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/MasoudJ23481721?logo=twitter&style=for-the-badge&color=22c55e&labelColor=0f172a"
-/></a><a href="https://www.twitch.tv/" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/?logo=twitchsx&style=for-the-badge&color=22c55e&labelColor=0f172a&label=TWITCH+STATUS" /></a>
+            <p>Feel free to explore my <a class="link" href="https://github.com/yourusername">repositories</a> for work samples and project showcases.</p>
+        </div>
 
-### Skills
+        <div class="section">
+            <h2>Persian Version 🇮🇷</h2>
+            <p>سلام! من <span class="highlight">[اسم شما]</span> هستم 👋</p>
+            <p>من یک <span class="highlight">مهندس نرم‌افزار ماهر</span> هستم که به ایجاد تجربه‌های کاربری تعاملی و روان علاقه دارم. در حال حاضر بر روی <span class="highlight">توسعه فرانت‌اند</span> تمرکز دارم و با استفاده از کدنویسی تمیز، کارآمد و قابل نگهداری، طرح‌ها را زنده می‌کنم. به عنوان یک <span class="highlight">یادگیرنده خودآموخته</span>، مجموعه‌ای از ابزارها و فناوری‌های متنوع را یاد گرفته و مهارت‌های خود را برای به‌روز ماندن در صنعت فناوری گسترش داده‌ام.</p>
 
+            <h3>🚀 مهارت‌ها:</h3>
+            <ul>
+                <li><span class="highlight">توسعه فرانت‌اند</span>: React.js، Next.js، JavaScript (ES6+)، HTML5، CSS3، SCSS</li>
+                <li><span class="highlight">طراحی رابط کاربری/تجربه کاربری</span>: Figma، Material-UI (MUI)</li>
+                <li><span class="highlight">کنترل نسخه</span>: Git، GitHub</li>
+                <li><span class="highlight">بهینه‌سازی عملکرد</span>: React Window، PWA</li>
+            </ul>
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-</p>
+            <h3>🌟 نکات برجسته:</h3>
+            <ul>
+                <li>پیاده‌سازی موفق طراحی‌های واکنش‌گرا برای برنامه‌های وب پویا.</li>
+                <li>ساخت یک فرم ویزارد ۷ مرحله‌ای با استفاده از React، MUI و PWA که داده‌ها را به صورت JSON به بک‌اند ارسال می‌کرد.</li>
+                <li>کار بر روی چندین پروژه فریلنسری که تخصص من در فناوری‌های وب مدرن را نشان می‌دهد.</li>
+                <li>طراحی و کدنویسی سایت شخصی خودم که نمای کلی پروژه‌ها و دستاوردهایم را ارائه می‌دهد.</li>
+            </ul>
 
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/Masoud2025" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/masoud-jafari-261ba7213" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/15087089/masoud" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/MasoudJ23481721" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Masoud2025"><img src="https://github-readme-stats.vercel.app/api?username=Masoud2025&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=facc15&icon_color=22c55e&bg_color=0f172a&hide_border=true&show_icons=true" alt="Masoud2025's GitHub stats" /></a>
-
-<a href="http://www.github.com/Masoud2025"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Masoud2025&stroke=facc15&background=0f172a&ring=ffffff&fire=ffffff&currStreakNum=facc15&currStreakLabel=ffffff&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
-
-<a href="http://www.github.com/Masoud2025"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Masoud2025&bg_color=0f172a&color=facc15&line=22c55e&point=facc15&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/Masoud2025" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masoud2025&langs_count=10&title_color=ffffff&text_color=facc15&icon_color=22c55e&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/Masoud2025/Use-just-special-characters-without-shift-key-on-keyboard" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Masoud2025&repo=Use-just-special-characters-without-shift-key-on-keyboard&title_color=ffffff&text_color=facc15&icon_color=22c55e&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+            <p>برای دیدن نمونه کارها و پروژه‌های من، <a class="link" href="https://github.com/yourusername">مخازن من</a> را بررسی کنید.</p>
+        </div>
+    </div>
+</body>
+</html>
