@@ -40,7 +40,7 @@
 ## 💻 Tech Stack:
 <div align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=js,html,css,angular,firebase,bash,bootstrap,postman,tensorflow,jquery,xd,figma,wordpress,vscode,jest,git,github,gitlab,githubactions,less,vercel,windows,materialui,linux,ubuntu&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,angular,firebase,bash,bootstrap,postman,tensorflow,jquery,xd,figma,vscode,jest,git,github,gitlab,less,vercel,windows,materialui,linux,ubuntu&theme=dark" />
 <!--     <img width="50" src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png"/> -->
   </a> 
 </div> 
@@ -49,15 +49,15 @@
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <img src="![Masoud2025's Stats](https://github-readme-stats.vercel.app/api?username=Masoud2025&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Masoud2025&theme=highcontrast&show_icons=true&hide_border=false&count_private=true" height="150" alt="stats graph"  />
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aakashx58&theme=tokyonight&hide_border=false" height="150" alt="stats graph"  />
 </div>
 
 
 <!--## 🐍 GitHub Contributions:
-![snake gif](https://github.com/masoud/masoud/blob/output/github-contribution-grid-snake.svg)-->
+![snake gif](https://github.com/aakashx58/aakashx58/blob/output/github-contribution-grid-snake.svg)-->
 <!--<div align="center">
- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/masoud/Bishalmoktan/output/github-contribution-grid-snake.svg" />
+ <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Bishalmoktan/Bishalmoktan/output/github-contribution-grid-snake.svg" />
 </div>-->
 
 
