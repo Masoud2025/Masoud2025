@@ -1,46 +1,113 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Masoud Jafari
-=====================================================================================================================================
-
-Front-end developer
--------------------
-
-Welcome to my GitHub profile! I'm a junior developer passionate about React, Typescript, and JavaScript.
-
-* 🌍  I'm based in Tehran
-* ✉️  You can contact me at [mwano@gmail.com](mailto:mwano@gmail.com)
-* 🧠  I'm learning Next-js
-* ⚡  Tell me and I forget, teach me and I may remember, involve me and I learn "– Benjamin Franklin"
-
-<a href="https://www.github.com/Masoud2025" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Masoud2025?logo=github&style=for-the-badge&color=22c55e&labelColor=0f172a" /></a><a href="https://www.x.com/MasoudJ23481721" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/MasoudJ23481721?logo=twitter&style=for-the-badge&color=22c55e&labelColor=0f172a"
-/></a><a href="https://www.twitch.tv/" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/?logo=twitchsx&style=for-the-badge&color=22c55e&labelColor=0f172a&label=TWITCH+STATUS" /></a>
-
-### Skills
+<h1>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&duration=4500&pause=1000&color=FFFFFF&background=301B5D00&vCenter=true&width=435&lines=Hi+👋+I'm+Masoud Jafari!">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4500&pause=1000&color=000000&background=301B5D00&vCenter=true&width=435&lines=Hi+👋+I'm+Masoud Jafari!">
+    <img alt="IMAGE" src="http://LIGHT_IMAGE_URL.png">
+  </picture>
+</h1>
 
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-</p>
+![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
 
 
-### Socials
+## 💫 About Me:
+- 🔭 I’m currently working as a **Front-end Developer.**
+- 🌱 I’m currently learning **NodeJS and MongoDB.**
+- 💬 Ask me about **React.js and Tech Stuff.**
+- 📫 How to reach me **Check my Social links below.**
+- ⚡ Fun fact **Coding is fun!**
 
-<p align="left"> <a href="https://www.github.com/Masoud2025" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/masoud-jafari-261ba7213" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/15087089/masoud" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/MasoudJ23481721" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
+## 🌐 Socials:
+<div align="left">
+  <a href="https://linkedin.com/in/aakash569" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
+    
+  <a href="https://twitter.com/aakash569" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  /></a>
+    
+  <a href="https://instagram.com/ig_aakash569" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /></a>
+    
+  <a href="https://facebook.com/aakash569" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  /></a>     
+   
+   <a href="https://youtube.com/@defconOP" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  /></a>
+  
+   <a href="https://aakashrajbanshi58@gmail.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
+  
+   <a href="https://discord.com/channels/@notyourdefcon" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /></a>
+  
+   <a href="https://gitlab.com/aakashx58" target="_blank"> 
+  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/gitlab-dark.svg" width="52" height="40" alt="gitlab logo"  /></a>
+  
+   <a href="https://stackoverflow.com/users/23926080/aakash-rajbanshi" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  /></a>
+  
+   <a href="https://www.reddit.com/user/aakash569/" target="_blank">
+  <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Reddit.png"  height="40" alt="reddit logo"  /></a>
+  
+   <a href="https://leetcode.com/u/aakashrajbanshi58/" target="_blank">
+  <img src="https://user-images.githubusercontent.com/63964149/152531278-5e01909d-0c2e-412a-8acc-4a06863c244d.png"  height="40" alt="leetcode logo"  /></a>
+  
+   <a href="https://medium.com/@aakash569" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  /></a>
+  
+   <a href="https://pub.dev/publishers/aakashrajbanshi.com.np/packages" target="_blank">
+  <img src="https://user-images.githubusercontent.com/25181517/186150304-1568ffdf-4c62-4bdc-9cf1-8d8efcea7c5b.png" height="40" alt="pub.dev logo"  /></a>
+  
+   <a href="https://linktr.ee/aakash569" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  /></a>
+  
+  <a href="https://zaap.bio/aakash569" target="_blank" rel="noreferrer">
+  <img src="https://s3-eu-west-1.amazonaws.com/tpd/logos/60e537346fa87d00016b77cc/0x0.png" width="40" />
+  </a>
+</div>
 
-<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Masoud2025"><img src="https://github-readme-stats.vercel.app/api?username=Masoud2025&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=facc15&icon_color=22c55e&bg_color=0f172a&hide_border=true&show_icons=true" alt="Masoud2025's GitHub stats" /></a>
+## 💻 Tech Stack:
+<div align="left">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=c,cpp,dart,flutter,firebase,supabase,fastapi,postman,tensorflow,photoshop,xd,figma,wordpress,vscode,androidstudio,git,github,gitlab,githubactions,cloudflare,vercel,windows,apple,linux,ubuntu&theme=dark" />
+<!--     <img width="50" src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png"/> -->
+  </a> 
+</div> 
 
-<a href="http://www.github.com/Masoud2025"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Masoud2025&stroke=facc15&background=0f172a&ring=ffffff&fire=ffffff&currStreakNum=facc15&currStreakLabel=ffffff&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
 
-<a href="http://www.github.com/Masoud2025"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Masoud2025&bg_color=0f172a&color=facc15&line=22c55e&point=facc15&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/Masoud2025" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masoud2025&langs_count=10&title_color=ffffff&text_color=facc15&icon_color=22c55e&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+## 📊 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aakashx58&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aakashx58&theme=tokyonight&hide_border=false" height="150" alt="stats graph"  />
+</div>
 
-<b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Masoud2025/Use-just-special-characters-without-shift-key-on-keyboard" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Masoud2025&repo=Use-just-special-characters-without-shift-key-on-keyboard&title_color=ffffff&text_color=facc15&icon_color=22c55e&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<!--## 🐍 GitHub Contributions:
+![snake gif](https://github.com/aakashx58/aakashx58/blob/output/github-contribution-grid-snake.svg)-->
+<!--<div align="center">
+ <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Bishalmoktan/Bishalmoktan/output/github-contribution-grid-snake.svg" />
+</div>-->
+
+
+<!--## 📅 Isometric commit calendar:
+  <td  align="center">
+        <details open><summary>Full year calendar</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt=""></img></details>
+        <details><summary>Half year calendar</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.svg" alt=""></img></details>
+        <img width="900" height="1" alt="">
+      </td>-->
+
+---
+[![](https://visitcount.itsvg.in/api?id=aakashx58&icon=0&color=1)](https://visitcount.itsvg.in)
+
+
+<div align="center">
+  Show some ❤️ by starring some of the repositories!
+</div>
+
+
+<div align="center">
+  <a href="https://github.com/aakashx58?tab=repositories" title="Show Repositories">... See More</a>
+</div>
