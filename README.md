@@ -40,7 +40,7 @@
 ## 💻 Tech Stack:
 <div align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,angular,threejs,firebase,bash,bootstrap,postman,jquery,xd,figma,vscode,jest,git,github,gitlab,less,vercel,windows,materialui,linux,svg,ubuntu&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,angular,threejs,jest,jquery,bash,bootstrap,materialui,less,svg,,postman,vscode,git,github,gitlab,vercel,windows,linux,ubuntu&theme=dark" />
 <!--     <img width="50" src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png"/> -->
   </a> 
 </div> 
